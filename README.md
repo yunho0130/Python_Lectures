@@ -9,7 +9,6 @@
 - 강의 정보  
 Introduction to Python Programming  
 맹 윤 호 Yunho Maeng  
-
 Business Big Data Analysis, Yonsei University  
 Graduate School of Information   
 myh0130@yonsei.ac.kr   
