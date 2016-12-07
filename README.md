@@ -5,9 +5,9 @@
 각 상황별 파이썬 frameworks, libraries 등 모음  
 <https://github.com/yunho0130/awesome-python>
   
-- GitHub Cheat Sheet 
-깃허브 기능 모음
-<https://github.com/yunho0130/github-cheat-sheet/blob/master/README.ko.md>
+- GitHub Cheat Sheet   
+깃허브 기능 모음  
+<https://github.com/yunho0130/github-cheat-sheet/blob/master/README.ko.md>  
 
 - 강의 정보  
 Introduction to Python Programming  
