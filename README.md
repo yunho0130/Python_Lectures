@@ -13,7 +13,8 @@
 <https://github.com/yunho0130/github-cheat-sheet/blob/master/README.ko.md>  
 
 * Markdown  
- - Cheat Sheet   
+ - 마크다운 문법 모음   
+<http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/>   
  - John Gruber markdown  
 <https://nolboo.kim/blog/2013/09/07/john-gruber-markdown/>
 
