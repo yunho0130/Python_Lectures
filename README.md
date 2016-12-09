@@ -9,7 +9,7 @@
 <https://github.com/yunho0130/CAU_Python/blob/master/Cheat_sheet/PyCharm_Reference_Card.pdf>
 
 * Data Analysis   
-"Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
+"Python for Data Analysis" by Wes McKinney, published by O'Reilly Media  
 <https://github.com/yunho0130/pydata-book>
 
 * GitHub Cheat Sheet   
