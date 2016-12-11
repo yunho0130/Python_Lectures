@@ -20,7 +20,16 @@
  - 마크다운 문법 모음   
 <http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/>   
  - John Gruber markdown  
-<https://nolboo.kim/blog/2013/09/07/john-gruber-markdown/>
+<https://nolboo.kim/blog/2013/09/07/john-gruber-markdown/>  
+
+* Vim Editor  
+<http://www.vim.org/download.php>  
+
+* SublimeText2  
+<https://sublimetext.com/2>  
+
+* Pycharm Edu    
+<https://www.jetbrains.com/pycharm-edu/download/>  
 
 * 강의 정보  
 Introduction to Python Programming  
