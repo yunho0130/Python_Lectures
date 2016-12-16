@@ -16,6 +16,9 @@
 깃허브 기능 모음  
 <https://github.com/yunho0130/github-cheat-sheet/blob/master/README.ko.md>  
 
+* git 연습하기  
+<http://learnbranch.urigit.com/>  
+
 * Markdown  
  - 마크다운 문법 모음   
 <http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/>   
