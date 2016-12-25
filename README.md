@@ -37,6 +37,8 @@
 * Vim Editor  
 <http://www.vim.org/download.php>  
 
+* Almind  
+<http://www.altools.co.kr/Download/ALMind.aspx>  
 
 * 강의 정보  
 Start Programming with Google Python Style Guide  
