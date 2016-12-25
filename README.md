@@ -39,7 +39,7 @@
 
 
 * 강의 정보  
-Introduction to Python Programming  
+Start Programming with Google Python Style Guide  
 맹 윤 호 Yunho Maeng  
 Business Big Data Analysis, Yonsei University  
 Graduate School of Information   
