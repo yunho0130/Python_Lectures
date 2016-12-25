@@ -1,6 +1,15 @@
 # CAU_Python_2016_Winter
 2016년 중앙대학교 python 강의에 사용되는 Source Code와 강의 자료 repository 입니다.   
-  
+
+* Anaconda  
+<https://www.continuum.io/downloads>
+
+* SublimeText2  
+<https://sublimetext.com/2>  
+
+* Pycharm Edu    
+<https://www.jetbrains.com/pycharm-edu/download/>  
+
 * awesome-python  
 각 상황별 파이썬 frameworks, libraries 등 모음  
 <https://github.com/yunho0130/awesome-python>
@@ -16,7 +25,7 @@
 깃허브 기능 모음  
 <https://github.com/yunho0130/github-cheat-sheet/blob/master/README.ko.md>  
 
-* git 연습하기  
+* git rebase 연습하기  
 <http://learnbranch.urigit.com/>  
 
 * Markdown  
@@ -28,11 +37,6 @@
 * Vim Editor  
 <http://www.vim.org/download.php>  
 
-* SublimeText2  
-<https://sublimetext.com/2>  
-
-* Pycharm Edu    
-<https://www.jetbrains.com/pycharm-edu/download/>  
 
 * 강의 정보  
 Introduction to Python Programming  
