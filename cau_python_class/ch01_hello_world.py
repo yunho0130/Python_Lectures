@@ -6,3 +6,9 @@ Created on Sun Dec 25 23:29:09 2016
 """
 
 print "hello world"
+
+print "hello world "*2
+
+print "hello" + " World"
+
+print "hello", "World"
