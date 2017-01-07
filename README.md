@@ -1,4 +1,5 @@
-# CAU_Python_2016_Winter
+# Start Programming with Google Python Style Guide
+* CAU_Python_2016_Winter
 2016년 중앙대학교 python 강의에 사용되는 Source Code와 강의 자료 repository 입니다.   
 
 ![Syllabus] (https://raw.githubusercontent.com/yunho0130/CAU_Python/master/%23%20lecture_slides/curriculum_cau_winter_resize.jpg)  
