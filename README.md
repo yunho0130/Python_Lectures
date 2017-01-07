@@ -1,6 +1,8 @@
 # CAU_Python_2016_Winter
 2016년 중앙대학교 python 강의에 사용되는 Source Code와 강의 자료 repository 입니다.   
 
+![Syllabus] (https://raw.githubusercontent.com/yunho0130/CAU_Python/master/%23%20lecture_slides/curriculum_cau_winter001.jpg)  
+
 * Python 수업에 사용된 코드  
 <https://gist.github.com/yunho0130>  
 
