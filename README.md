@@ -55,4 +55,4 @@ Graduate School of Information
 myh0130@yonsei.ac.kr   
 
 * FYI
-참고로 저는 구글과 아무 관련이 없으며(관련이 있고 싶습니다.), 웹상에 공개되어 있는 Google Python Style Guide<https://google.github.io/styleguide/pyguide.html>의 내용을 기반으로 강좌를 구성하였습니다. 관련하여 문의는 이메일로 주시면 답변드리겠습니다. 
+참고로 저는 구글과 아무 관련이 없으며(관련이 있고 싶습니다.), 웹상에 공개되어 있는 Google Python Style Guide (<https://google.github.io/styleguide/pyguide.html>)의 내용을 기반으로 강좌를 구성하였습니다. 관련하여 문의는 이메일로 주시면 답변드리겠습니다. 
