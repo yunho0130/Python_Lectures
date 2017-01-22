@@ -59,7 +59,7 @@
 Python 프로그래밍에 있어, 가이드 라인을 제공해주신 Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields 님들께 감사드립니다.
 
 
-* LISENCE  
+* LICENSE   
  -- 기본적으로 GPL-3.0 라이센스를 따릅니다. 아래의 항목은 GPL-3.0에 추가적인 항목입니다.   
  -- GPL 라이센스의 사용은 여러 인용/차용한 Reference Opensource 자료들의 최상위 항목이기 때문에 적용하였습니다.  
  -- 저작자 명시 배포를 허용합니다.  
