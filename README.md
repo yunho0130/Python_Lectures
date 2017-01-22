@@ -1,6 +1,9 @@
 # Start Programming with Google Python Style Guide
 * CAU_Python_2016_Winter  
 * [Star]버튼을 누르면, 강의자료 업데이트에 큰 힘이됩니다. 
+
+* 본 Repository는 GPL-3.0 라이센스를 따릅니다. 상업적, 교육용, 개인적인 사용에 제약을 두지 않습니다. 자세한 라이센스 사항은 본 글 하단을 참조하세요.  
+
 * 2016년 중앙대학교 python 강의에 사용되었던 Source Code와 강의 자료 repository 입니다.   
 프로그래밍을 처음 시작하는 분들에게 구글 파이썬 스타일 가이드를 기준으로 강의가 진행되었습니다. 여기에서 초점은 python보다는 '프로그래밍을 처음 시작하는 사람'에 맞추어져 있습니다. 난이도의 하향을 의미하는 것이 아닌, 프로그래밍을 할 때, 무엇을 염두해두어야 하는지에 초점을 맞추었습니다. 때문에 프로그래머로서 협업하는 방법, 현업과의 커뮤니케이션에 어떤 Tool들이 사용되는지 등에 대해서도 본 강의는 다루게 됩니다.   
 
@@ -55,5 +58,15 @@ Business Big Data Analysis, Yonsei University
 Graduate School of Information   
 myh0130@yonsei.ac.kr   
 
+
+* LISENCE
+ -- 기본적으로 GPL-3.0 라이센스를 따릅니다. 아래의 항목은 GPL-3.0에 추가적인 항목입니다. 
+ -- GPL 라이센스의 사용은 여러 인용/차용한 Reference Opensource 자료들의 최상위 항목이기 때문에 적용하였습니다. 
+ -- 저작자 명시 배포를 허용합니다. 
+ -- 서적출판, 특허, 2차 라이센스는 허용하지 않습니다. (공동 저자는 연락주세요) 
+
 * FYI
-참고로 저는 구글과 아무 관련이 없으며(관련이 있고 싶습니다.), 웹상에 공개되어 있는 Google Python Style Guide (<https://google.github.io/styleguide/pyguide.html>)의 내용을 기반으로 강좌를 구성하였습니다. 관련하여 문의는 이메일로 주시면 답변드리겠습니다. 
+참고로 저는 구글과 아무 관련이 없으며(관련이 있고 싶습니다.), 웹상에 공개되어 있는 Google Python Style Guide (<https://google.github.io/styleguide/pyguide.html>)의 내용을 기반으로 강좌를 구성하였습니다(CC-4.0 라이센스로 상업적 사용 무관) 관련하여 문의는 이메일로 주시면 답변드리겠습니다. 
+
+* Google Python Style Guide 저자 명시
+Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields
