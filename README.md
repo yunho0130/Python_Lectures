@@ -58,15 +58,17 @@
 * Google Python Style Guide 저자 명시  
 Python 프로그래밍에 있어, 가이드 라인을 제공해주신 Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields 님들께 감사드립니다.
 
+* PEP8 vs Googlel Python Style Guide   
+ - 언어의 창시자가 만든 컨벤션도 물론 중요하지만, 실제로 현업에서 어떻게 사용되는지를 더 중요하게 생각하고 Google의 기준을 기준으로 삼았습니다. 이부분 감안하시기 바랍니다. 
 
 * LICENSE   
- -- 기본적으로 GPL-3.0 라이센스를 따릅니다. 아래의 항목은 GPL-3.0에 추가적인 항목입니다.   
- -- GPL 라이센스의 사용은 여러 인용/차용한 Reference Opensource 자료들의 최상위 항목이기 때문에 적용하였습니다.  
- -- 저작자 명시 배포를 허용합니다.  
- -- 서적출판, 특허, 2차 라이센스는 허용하지 않습니다. (공동 저자는 연락주세요)  
- -- 'Start Programming with Google Python Style Guide: 구글 파이썬 스타일 가이드로 시작하는 프로그래밍'이란 명칭은 출판을 위해 상표권 출원중입니다. (개인 출원 번호 신청 번호 4-1-2017-5011650-81)
+ - 기본적으로 GPL-3.0 라이센스를 따릅니다. 아래의 항목은 GPL-3.0에 추가적인 항목입니다.   
+ - GPL 라이센스의 사용은 여러 인용/차용한 Reference Opensource 자료들의 최상위 항목이기 때문에 적용하였습니다.  
+ - 저작자 명시 배포를 허용합니다.  
+ - 서적출판, 특허, 2차 라이센스는 허용하지 않습니다. (공동 저자는 연락주세요)  
+ - 'Start Programming with Google Python Style Guide: 구글 파이썬 스타일 가이드로 시작하는 프로그래밍'이란 명칭은 출판을 위해 상표권 출원중입니다. (개인 출원 번호 신청 번호 4-1-2017-5011650-81)
  
- * 강사 정보  
+* 강사 정보  
 Start Programming with Google Python Style Guide  
 맹 윤 호 Yunho Maeng  
 Business Big Data Analysis, Yonsei University  
