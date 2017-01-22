@@ -51,12 +51,12 @@
 * Almind  
 <http://www.altools.co.kr/Download/ALMind.aspx>  
 
-* 강사 정보  
-Start Programming with Google Python Style Guide  
-맹 윤 호 Yunho Maeng  
-Business Big Data Analysis, Yonsei University  
-Graduate School of Information   
-myh0130@yonsei.ac.kr   
+* FYI
+참고로 저는 구글과 아무 관련이 없으며(관련이 있고 싶습니다.),  
+웹상에 공개되어 있는 Google Python Style Guide (<https://google.github.io/styleguide/pyguide.html>)의 내용을 기반으로 강좌를 구성하였습니다.  (CC-4.0 라이센스로 상업적 사용 무관) 
+
+* Google Python Style Guide 저자 명시  
+Python 프로그래밍에 있어, 가이드 라인을 제공해주신 Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields 님들께 감사드립니다.
 
 
 * LISENCE  
@@ -64,9 +64,10 @@ myh0130@yonsei.ac.kr
  -- GPL 라이센스의 사용은 여러 인용/차용한 Reference Opensource 자료들의 최상위 항목이기 때문에 적용하였습니다.  
  -- 저작자 명시 배포를 허용합니다.  
  -- 서적출판, 특허, 2차 라이센스는 허용하지 않습니다. (공동 저자는 연락주세요)  
-
-* FYI
-참고로 저는 구글과 아무 관련이 없으며(관련이 있고 싶습니다.), 웹상에 공개되어 있는 Google Python Style Guide (<https://google.github.io/styleguide/pyguide.html>)의 내용을 기반으로 강좌를 구성하였습니다(CC-4.0 라이센스로 상업적 사용 무관) 관련하여 문의는 이메일로 주시면 답변드리겠습니다. 
-
-* Google Python Style Guide 저자 명시  
-Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields
+ 
+ * 강사 정보  
+Start Programming with Google Python Style Guide  
+맹 윤 호 Yunho Maeng  
+Business Big Data Analysis, Yonsei University  
+Graduate School of Information   
+myh0130@yonsei.ac.kr   
