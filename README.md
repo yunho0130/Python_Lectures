@@ -64,6 +64,7 @@ Python 프로그래밍에 있어, 가이드 라인을 제공해주신 Amit Patel
  -- GPL 라이센스의 사용은 여러 인용/차용한 Reference Opensource 자료들의 최상위 항목이기 때문에 적용하였습니다.  
  -- 저작자 명시 배포를 허용합니다.  
  -- 서적출판, 특허, 2차 라이센스는 허용하지 않습니다. (공동 저자는 연락주세요)  
+ -- 'Start Programming with Google Python Style Guide: 구글 파이썬 스타일 가이드로 시작하는 프로그래밍'이란 명칭은 출판을 위해 상표권 출원중입니다. (개인 출원 번호 신청 번호 4-1-2017-5011650-81)
  
  * 강사 정보  
 Start Programming with Google Python Style Guide  
