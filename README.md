@@ -1,5 +1,5 @@
 # Start Programming with Google Python Style Guide
-* CAU_Python_2016_Winter  
+* Ver 1.0.1 (Last Update 2017-01-22)
 * [Star]버튼을 누르면, 강의자료 업데이트에 큰 힘이됩니다. 
 
 * 본 Repository는 GPL-3.0 라이센스를 따릅니다. 상업적, 교육용, 개인적인 사용에 제약을 두지 않습니다. 자세한 라이센스 사항은 본 글 하단을 참조하세요.  
