@@ -1,7 +1,7 @@
 # Start Programming with Google Python Style Guide
 ####__[Star]버튼을 누르면, 강의자료 업데이트에 큰 힘이됩니다.__
 
-* Ver 1.0.1 (Last Update 2017-01-22)
+* Ver 1.0.2 (Last Update 2017-01-22)
 
 * 본 Repository는 GPL-3.0 라이센스를 따릅니다. 상업적, 교육용, 개인적인 사용이 가능합니다. 자세한  라이센스 제약사항은 본 글 하단을 참조하세요.  
 
@@ -10,8 +10,8 @@
 
 ![Syllabus] (https://raw.githubusercontent.com/yunho0130/CAU_Python/master/%23%20lecture_slides/curriculum_cau_winter_resize.jpg)  
 
-* Python 수업에 사용된 코드  
-<https://gist.github.com/yunho0130>  
+* Python 수업에 사용된 코드 (Live Coding으로 수업시간에 진행했던 코드)  
+<https://gist.github.com/yunho0130>  
 
 * Anaconda  
 <https://www.continuum.io/downloads>
