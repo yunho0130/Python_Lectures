@@ -10,9 +10,6 @@
 
 ![Syllabus] (https://raw.githubusercontent.com/yunho0130/CAU_Python/master/%23%20lecture_slides/curriculum_cau_winter_resize.jpg)  
 
-* Python 수업에 사용된 코드 (Live Coding으로 수업시간에 진행했던 코드)  
-<https://gist.github.com/yunho0130>  
-
 * Anaconda  
 <https://www.continuum.io/downloads>
 
@@ -52,6 +49,9 @@
 * Almind  
 <http://www.altools.co.kr/Download/ALMind.aspx>  
 
+* Python 수업에 사용된 코드 (Live Coding으로 수업시간에 진행했던 코드)  
+<https://gist.github.com/yunho0130>  
+
 * FYI
 참고로 저는 구글과 아무 관련이 없으며(관련이 있고 싶습니다.),  
 웹상에 공개되어 있는 Google Python Style Guide (<https://google.github.io/styleguide/pyguide.html>)의 내용을 기반으로 강좌를 구성하였습니다.  (CC-4.0 라이센스로 상업적 사용 무관) 
@@ -68,7 +68,12 @@ Python 프로그래밍에 있어, 가이드 라인을 제공해주신 Amit Patel
  - 저작자 명시 배포를 허용합니다.  
  - 서적출판, 특허, 2차 라이센스는 허용하지 않습니다. (공동 저자는 연락주세요)  
  - 'Start Programming with Google Python Style Guide: 구글 파이썬 스타일 가이드로 시작하는 프로그래밍'이란 명칭은 출판을 위해 상표권 출원중입니다. (개인 출원 번호 신청 번호 4-1-2017-5011650-81)
- 
+
+* Version Update History  
+ - 1.0.2 Readme 수정  
+ - 1.0.1 최초 외부 공개본 (저작권 관련 커밋 및 로그 추가)  
+ - 1.0.0 최초 수업 공개용 완성   
+
 * 강사 정보  
 Start Programming with Google Python Style Guide  
 맹 윤 호 Yunho Maeng  
