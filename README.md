@@ -57,7 +57,7 @@
 웹상에 공개되어 있는 Google Python Style Guide (<https://google.github.io/styleguide/pyguide.html>)의 내용을 기반으로 강좌를 구성하였습니다.  (CC-4.0 라이센스로 상업적 사용 무관) 
 
 * Google Python Style Guide 저자 명시  
-Python 프로그래밍에 있어, 가이드 라인을 제공해주신 Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields 님들께 감사드립니다.
+Python 프로그래밍에 있어, 가이드 라인을 작성해주신 Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields 님들께 감사드립니다.
 
 * PEP8 vs Googlel Python Style Guide   
  - 언어의 창시자가 만든 컨벤션도 물론 중요하지만, 실제로 현업에서 어떻게 사용되는지를 더 중요하게 생각하고 Google의 기준을 기준으로 삼았습니다. 이부분 감안하시기 바랍니다. 
