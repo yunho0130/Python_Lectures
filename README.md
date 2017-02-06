@@ -76,5 +76,5 @@ Python 프로그래밍에 있어, 가이드 라인을 작성해주신 Amit Patel
  - 1.0.0 최초 수업 공개용 완성   
 
 * 저자: 맹윤호 myh0130@yonsei.ac.kr     
-저자는 Apache Zepplin Contributor이자 Git Award Python 분야 World Top 1.7% 프로그래머로 Rank 되어있다. California에서 실시된 AutoDevBot 해커톤에서 준우승하였으며, 카네기멜론 아시아 STEM 강사로 Python과 App Inventor를 강의했다. 한국과학기술정보연구원(KISTI), 한국연구재단(NRF), DBpia 등 프로젝트를 수행하였으며, 중앙대학교에서 Python 겨울 특강을 진행한 바 있다. 현재는 연세대학교 정보대학원 정보화평가연구실에서 비즈니스 빅데이터 분석을 전공하고 있다.  
+저자는 Apache Zepplin Contributor이자 Git Award Python 분야 World Top 1.7% 프로그래머로 Rank 되어있다. California에서 실시된 AutoDevBot 해커톤에서 준우승하였으며, 카네기멜론 아시아 STEM 강사로 Python과 App Inventor를 강의했다. 한국과학기술정보연구원(KISTI), 한국연구재단(NRF), DBpia 등에서 프로젝트를 수행하였으며, 중앙대학교에서 Python 겨울 특강을 진행한 바 있다. 현재는 연세대학교 정보대학원 정보화평가연구실에서 비즈니스 빅데이터 분석을 전공하고 있다.  
  
