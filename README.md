@@ -1,7 +1,7 @@
 # Start Programming with Google Python Style Guide
 ####__[Star]버튼을 누르면, 강의자료 업데이트에 큰 힘이됩니다.__
 
-* 구글 파이썬 스타일 가이드로 시작하는 프로그래밍 Ver 1.0.2 (Last Update 2017-01-22)
+* 구글 파이썬 스타일 가이드로 시작하는 프로그래밍 Ver 1.0.3 (Last Update 2017-02-06)
 
 * 본 Repository는 GPL-3.0 라이센스를 따릅니다. 상업적, 교육용, 개인적인 사용이 가능합니다. 자세한  라이센스 제약사항은 본 글 하단을 참조하세요.  
 
@@ -70,10 +70,11 @@ Python 프로그래밍에 있어, 가이드 라인을 작성해주신 Amit Patel
  - 'Start Programming with Google Python Style Guide: 구글 파이썬 스타일 가이드로 시작하는 프로그래밍'이란 명칭은 출판을 위해 상표권 출원중입니다. (개인 출원 번호 신청 번호 4-1-2017-5011650-81)
 
 * Version Update History  
- - 1.0.2 Readme 수정  
+ - 1.0.3 저자정보 업데이트 
+ - 1.0.2 Readme 수정  
  - 1.0.1 최초 외부 공개본 (저작권 관련 커밋 및 로그 추가)  
  - 1.0.0 최초 수업 공개용 완성   
 
-* 저자 정보  
+* 저자 정보    
 저자는 Apache Zepplin Contributor이자 Git Award Python 분야 World Top 1.7% 프로그래머로 Rank 되어있다. California에서 실시된 AutoDevBot 해커톤에서 준우승하였으며, 카네기멜론 아시아 STEM 강사로 Python과 App Inventor를 강의했다. 한국과학기술정보연구원(KISTI), 한국연구재단(NRF), DBpia 등 프로젝트를 수행하였으며, 중앙대학교에서 Python 겨울 특강을 진행한 바 있다. 현재는 연세대학교 정보대학원 정보화평가연구실에서 비즈니스 빅데이터 분석을 전공하고 있다.  
 myh0130@yonsei.ac.kr   
