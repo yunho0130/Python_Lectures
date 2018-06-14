@@ -81,13 +81,13 @@
 * PEP8 vs Googlel Python Style Guide   
  - 언어의 창시자가 만든 컨벤션도 물론 중요하지만, 실제로 현업에서 어떻게 사용되는지를 더 중요하게 생각하고 Google의 기준을 기준으로 삼았습니다. 이 부분 감안하시기 바랍니다. 
 
-* LICENSE   
+#### LICENSE   
  - 기본적으로 GPL-3.0 라이센스를 따릅니다. 아래의 항목은 GPL-3.0에 추가적인 항목입니다.   
  - GPL 라이센스의 사용은 여러 인용/차용한 Reference Opensource 자료들의 최상위 항목이기 때문에 적용하였습니다.  
  - 저작자 명시 배포를 허용합니다.  
  - 서적출판, 특허, 2차 라이센스는 허용하지 않습니다. (공동 저자는 연락주세요)  
 
-* Version Update History  
+#### Version Update History  
  - 1.1.1 마이너 README.md 업데이트
  - 1.1.0 Pull Request 반영, 실러버스 이미지 수정, Disclaimer 추가
  - 1.0.3 저자정보 업데이트 
@@ -95,7 +95,7 @@
  - 1.0.1 최초 외부 공개본 (저작권 관련 커밋 및 로그 추가)  
  - 1.0.0 최초 수업 공개용 완성    
 
-* 저자: 맹개발 <http://maengdev.tistory.com/166>
+#### 저자: 맹개발 <http://maengdev.tistory.com/166>
 > 저자는 현재 IBM Watson Cognitive 엔지니어로 근무하고 있으며, 연세대학교 정보대학원에서 비즈니스 빅데이터 분석 석사과정을 전공했다. California에서 실시된 AutoDevBot 해커톤에서 준우승하였으며, 카네기멜론 아시아 STEM Academy와 중앙대학교에서 Python을 강의했다. SK C&C, 한국과학기술정보연구원(KISTI), 한국연구재단(NRF), DBpia 등에서 프로젝트를 수행하였으며, 오픈소스 활동으로 Apache Zepplin, 양자컴퓨팅 Python SDK인 QISKIT에 기여했다.
 
 #### Disclaimer
