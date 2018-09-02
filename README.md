@@ -19,8 +19,8 @@
 
 ## Start Programming with Google Python Style Guide
 
-* 2016년 중앙대학교 Python 기초과목
-* 강의슬라이드 및 소스코드 바로가기 `/2016_WV_CAU_Lecture_Slide`   
+* 2016년 겨울방학 중앙대학교 Python 기초과목
+* 강의슬라이드 및 소스코드 바로가기 `/2016_WV_CAU_Lecture_Slide` 
 	- <https://github.com/yunho0130/Python_Lectures/tree/master/2016_WV_CAU_Lecture_Slide>
 
 * 구글 파이썬 스타일 가이드로 시작하는 프로그래밍 Ver 1.1.1 (Last Update 2018-06-14)
@@ -68,11 +68,6 @@
 
 * Python 수업중에 사용된 코드 (Live Coding으로 수업시간에 진행했던 코드)  
 <https://gist.github.com/yunho0130>  
-
-# Business Bigdata Analysis using Python
-* `2018_02_SMU_Lecture_Slide` 2018년 2학기 상명대학교 python 강의에 사용되었던 Source Code와 강의 자료 repository 입니다.  
-![](media/15289709737744.jpg)
-
 
 #### 개발환경 및 사용프로그램
 
