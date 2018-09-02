@@ -1,32 +1,48 @@
-# Start Programming with Google Python Style Guide
+# Python Lectures
 
+* 파이썬을 활용한 소스코드Source Code와 강의자료Lecture Slide)를 모아둔 Repository 입니다. 
 
+## Business Bigdata Analysis
 #### __[Star]버튼을 누르면, 강의자료 업데이트에 큰 힘이됩니다.__
+
+* 2018년 2학기 상명대학교 경영빅데이터 분석과목 (2018년 12월 업로드 완료 예정)
+* 강의슬라이드 및 소스코드 바로가기 `/2018_02_SMU_Lecture_Slide` <>
+
+![](media/smu_intro_20180902_191526.png)
+![](media/smu_syllabus_20180902_191444.png)
+
+
+## Start Programming with Google Python Style Guide
+
+* 2016년 중앙대학교 Python 기초과목
+* 강의슬라이드 및 소스코드 바로가기 `/2016_WV_CAU_Lecture_Slide` <>  
 
 * 구글 파이썬 스타일 가이드로 시작하는 프로그래밍 Ver 1.1.1 (Last Update 2018-06-14)
 
 * 본 Repository는 GPL-3.0 라이센스를 따릅니다. 상업적, 교육용, 개인적인 사용이 가능합니다. 자세한  라이센스 제약사항은 본 글 하단을 참조하세요.  
 
-* 2016년 중앙대학교 python 강의에 사용되었던 Source Code와 강의 자료 repository 입니다.  
 ![](media/15289665891472.jpg)
 
 프로그래밍을 처음 시작하는 분들에게 구글 파이썬 스타일 가이드를 기준으로 강의가 진행되었습니다. 여기에서 초점은 python보다는 '프로그래밍을 처음 시작하는 사람'에 맞추어져 있습니다. 난이도의 하향을 의미하는 것이 아닌, 프로그래밍을 할 때, 무엇을 염두해두어야 하는지에 초점을 맞추었습니다. 때문에 프로그래머로서 협업하는 방법, 현업과의 커뮤니케이션에 어떤 Tool들이 사용되는지 등에 대해서도 본 강의는 다루게 됩니다.   
 
 ![](media/15289666198717.jpg)
 
-#### 강의 슬라이드 및 소스코드 바로가기 
-* 강의슬라이드 및 소스코드 <https://github.com/yunho0130/CAU_Python/tree/master/%23%20lecture_slides> 
+#### 강의 자료 구성
 * 강의 슬라이드는 복습 => 구글 스타일 가이드 확인 => 파이썬 문법 기반의 진도=>과제의 순으로 구성되어 있습니다. 
     - 구글 스타일 가이드 확인 예시
 ![](media/15289703386200.jpg)
     - 파이썬 문법 진도 예시
-![](media/15289706489068.jpg)
-    
+![](media/15289706489068.jpg)  
     - 과제 예시
 ![](media/15289709737744.jpg)
 
 * Python 수업중에 사용된 코드 (Live Coding으로 수업시간에 진행했던 코드)  
 <https://gist.github.com/yunho0130>  
+
+# Business Bigdata Analysis using Python
+* `2018_02_SMU_Lecture_Slide` 2018년 2학기 상명대학교 python 강의에 사용되었던 Source Code와 강의 자료 repository 입니다.  
+![](media/15289709737744.jpg)
+
 
 #### 개발환경 및 사용프로그램
 
@@ -85,9 +101,11 @@
  - 기본적으로 GPL-3.0 라이센스를 따릅니다. 아래의 항목은 GPL-3.0에 추가적인 항목입니다.   
  - GPL 라이센스의 사용은 여러 인용/차용한 Reference Opensource 자료들의 최상위 항목이기 때문에 적용하였습니다.  
  - 저작자 명시 배포를 허용합니다.  
- - 서적출판, 특허, 2차 라이센스는 허용하지 않습니다. (공동 저자는 연락주세요)  
+ - 서적출판, 특허, 2차 라이센스는 허용하지 않습니다. (공동 저자는 연락주세요) 
+ - 비영리 출처표기에 의한 인용 자료의 경우, 해당 원작자의 라이센스 정책을 따릅니다. 
 
 #### Version Update History  
+ - 2.0.0 상명대 데이터 분석 강의자료 업로드 시작
  - 1.1.1 마이너 README.md 업데이트
  - 1.1.0 Pull Request 반영, 실러버스 이미지 수정, Disclaimer 추가
  - 1.0.3 저자정보 업데이트 
