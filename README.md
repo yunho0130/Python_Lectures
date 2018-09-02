@@ -28,12 +28,34 @@
 * 본 Repository는 GPL-3.0 라이센스를 따릅니다. 상업적, 교육용, 개인적인 사용이 가능합니다. 자세한  라이센스 제약사항은 본 글 하단을 참조하세요.  
 
 #### 강의개요  
-![](media/15289665891472.jpg | width=400)
 
-프로그래밍을 처음 시작하는 분들에게 구글 파이썬 스타일 가이드를 기준으로 강의가 진행되었습니다. 여기에서 초점은 python보다는 '프로그래밍을 처음 시작하는 사람'에 맞추어져 있습니다. 난이도의 하향을 의미하는 것이 아닌, 프로그래밍을 할 때, 무엇을 염두해두어야 하는지에 초점을 맞추었습니다. 때문에 프로그래머로서 협업하는 방법, 현업과의 커뮤니케이션에 어떤 Tool들이 사용되는지 등에 대해서도 본 강의는 다루게 됩니다.   
+- 프로그래밍을 처음 시작하는 분들에게 구글 파이썬 스타일 가이드를 기준으로 강의가 진행되었습니다. 여기에서 초점은 python보다는 '프로그래밍을 처음 시작하는 사람'에 맞추어져 있습니다. 난이도의 하향을 의미하는 것이 아닌, 프로그래밍을 할 때, 무엇을 염두해두어야 하는지에 초점을 맞추었습니다. 때문에 프로그래머로서 협업하는 방법, 현업과의 커뮤니케이션에 어떤 Tool들이 사용되는지 등에 대해서도 본 강의는 다루게 됩니다.  
+- 본 강의는 프로그래밍에 대한 전반적인 기초지식과 함께 Python 코드를 해석하고 응용하는 데에 초점을 맞추어 강의를 진행합니다. 
+- 학생들은 강의를 통해 Git/Github를 통해 버전관리를 진행하고 프로그래머로서 협업하는 방법을 배우게 됩니다.
+- 본 수업에 사용되는 모든 교재는 웹상으로 공개되어 교육용 목적으로 제한없이 사용가능합니다. 오프라인 책이 필요한 경우만 개별 구매하시기 바랍니다. 본 수업은 Python 2 버전을 기준으로 진행됩니다. Python 3 버전의 경우 부교재를 참조하시기 바랍니다. 
 
 #### 주차별 강의 계획 Syllabus
-![](media/15289666198717.jpg | width=400)
+
+1. Python 소개 및 개발환경 구성 (interpreter 언어 패러다임, 버전 2vs3, Anaconda) 
+(심화) Notebook 기반 iPython, linux 상에서의 실행, Docker
+2. 버전관리 – Git/Github 활용. Commit, Pull Request, Branch, Merge 등 명령어, GIST
+(심화) Markdown, Jekyll 을 활용한 정적 웹 페이지 제작
+3. 변수 타입과 연산 - Numbers, String, variables, operator 등 
+(심화) Typecasting, 정규표현식 (Regular Expression), 부동 소수점 문제
+4. 흐름 제어 - if, while, for loop, break, continue 
+(심화) 디버깅 모듈
+5. 함수 – 추상화, 매개변수, 지역변수, 전역변수 구분 
+(심화) 재귀 함수 
+6. 자료구조 - List, tuple, Dictionary, Set 등
+(심화) 코딩인터뷰 대비 자료구조 구현 <Cracking the coding interview>
+7. 객체 지향 프로그래밍 - self, class, method, 상속
+(심화) encapsulation, overloading, overriding
+8. 파일입출력 및 예외처리 – Pickle, Try...Finally
+(심화) 유니코드
+9. 데이터시각화 – ggplot, Tableau
+(심화) AWS, Tableau Server, Backend/Frontend 등
+10. 정렬 알고리즘 – Bubble Sort, Quick Sort 등
+(심화) 코딩인터뷰 대비 정렬 알고리즘 구현 <Cracking the coding interview> Pseudocode 프로그래밍, BIG-O(n) 표기법, 시간/공간 복잡도
 
 #### 강의 자료 구성
 * 강의 슬라이드는 복습 => 구글 스타일 가이드 확인 => 파이썬 문법 기반의 진도=>과제의 순으로 구성되어 있습니다. 
