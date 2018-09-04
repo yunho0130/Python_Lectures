@@ -2,7 +2,7 @@
 
 * 파이썬을 활용한 소스코드Source Code와 강의자료Lecture Slide)를 모아둔 Repository 입니다. 
 
-## Business Bigdata Analysis
+## Bigdata Analysis for management
 #### __[Star]버튼을 누르면, 강의자료 업데이트에 큰 힘이됩니다.__
 
 * 2018년 2학기 상명대학교 경영빅데이터 분석과목 (2018년 12월 업로드 완료 예정)
