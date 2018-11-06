@@ -1,9 +1,11 @@
 x = 50
 
-def func(x):
-    print 'x is', x
-    x = 2
-    print 'Changed local x to', x
+def func(z=30):
+    print 'x is', z
+    z = z*2
+    print 'Changed local x to', z
 
-func(x)
+# func(x)
+func(50)
+func()
 print 'x is still', x

@@ -21,11 +21,11 @@ admin_code = 9190
 
 total_money = 0 
 
-item1_name = "사탕"
+item1_name = "candy"
 item1_price = 300
 item1_num = 5
 
-item2_name = "과자"
+item2_name = "snack"
 item2_price = 1000
 #==============================================================================
 # item2_num = 6
@@ -124,4 +124,4 @@ while vending_condition:
             # wrong number
             print "== 잘못된 값을 입력하셨습니다 ==" 
 else: 
-    print u"재고가 소진되어 영업을 종료합니다."
+    print "재고가 소진되어 영업을 종료합니다."

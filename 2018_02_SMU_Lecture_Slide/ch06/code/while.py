@@ -12,8 +12,8 @@ while running:
         print 'No, it is a little higher than that.'
     else:
         print 'No, it is a little lower than that.'
-else:
-    print 'The while loop is over.'
+
+print 'The while loop is over.'
     # Do anything else you want to do here
 
 print 'Done'

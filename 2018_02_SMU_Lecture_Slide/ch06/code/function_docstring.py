@@ -12,4 +12,5 @@ def print_max(x, y):
         print y, 'is maximum'
 
 print_max(3, 5)
+print_max(7, 9)
 print print_max.__doc__
